@@ -1,0 +1,6 @@
+First line of text.
+12345
+Another line with text and numbers.
+Fourth line added.
+Fifth line appended.
+Last line appended.
